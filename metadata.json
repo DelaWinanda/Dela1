@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 Relay & DHT11 Controller",
+  "description": "Smart web dashboard with real-time analytics graphs, dynamic voice commands, local Direct IP support, and full Telegram Bot integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
